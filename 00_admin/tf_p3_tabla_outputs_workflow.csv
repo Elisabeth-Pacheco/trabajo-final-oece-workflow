@@ -1,0 +1,13 @@
+output,tipo,carpeta
+Base comparativa multianual,tabla,04_datos_procesados/tablas_unificadas
+Base principal multianual,tabla,04_datos_procesados/tablas_unificadas
+Base limpia de trabajo,tabla,04_datos_procesados/tablas_limpias
+Cobertura anual,tabla+figura,07_resultados/resumenes y figuras
+Trayectoria mensual,tabla+figura,07_resultados/tablas y figuras
+Distribución por objeto contractual,tabla+figura,07_resultados/tablas y figuras
+Top entidades,tabla+figura,07_resultados/tablas y figuras
+Distribución territorial,tabla+figura,07_resultados/tablas y figuras
+Resumen de montos,tabla+figura,07_resultados/resumenes y figuras
+Cobertura de subconjuntos,tabla,07_resultados/resumenes
+Exploración textual mínima,tabla+figura,07_resultados/tablas y figuras
+Manifest final de ensamblaje,tabla,00_admin
